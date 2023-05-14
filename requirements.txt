@@ -1,5 +1,5 @@
 streamlit == 1.19
 numpy
 pandas
-AgGrid
+streamlit-aggrid
 deep_translator
