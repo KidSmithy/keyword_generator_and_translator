@@ -1,0 +1,5 @@
+streamlit == 1.19
+numpy
+pandas
+AgGrid
+deep_translator
