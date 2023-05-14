@@ -3,3 +3,4 @@ numpy
 pandas
 streamlit-aggrid
 deep_translator
+altair
